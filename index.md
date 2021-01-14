@@ -1,13 +1,10 @@
 ## 欢迎来到皮亚杰的主页
-### 个人履历  
 <table border="0">
   <tr>
     <td width="75%">
       <h1>皮亚杰</h1>
       <p><b>现就读于山东大学计算机科学与技术学院</b></p>
-      <p><b>手机：15725256872</b></p>
       <p><b>邮箱：idealpyj@163.com</b></p>
-      <p><b>　　　idealpyj@gmail.com</b></p>
       <p><b>Q Q：1939971287</b></p>
       <p><b>微信：IDEALPYJ</b></p>
     </td>
