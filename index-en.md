@@ -4,7 +4,7 @@
   <tr>
     <td width="75%">
       <h1>Pi Yajie</h1>
-      <p><b>Undergraduate Degree</b></p>
+      <p><b>freshman</b></p>
       <p><b>Now studing in the Institute of Computer Science and Technology, SDU</b></p>
       <p><b>Phone Number：15725256872</b></p>
       <p><b>　　　E-mail：idealpyj@163.com</b></p>
