@@ -1,16 +1,12 @@
 ## Welcome To Pi Yajie's Home Page
-### Resume  
 <table border="0">
   <tr>
     <td width="75%">
       <h1>Pi Yajie</h1>
-      <p><b>Now studing in the Institute of Computer Science and Technology, SDU</b></p>
-      <p><b>Phone Number：15725256872</b></p>
-      <p><b>　　　E-mail：idealpyj@163.com</b></p>
-      <p><b>　　　　　　　 idealpyj@gmail.com</b></p>
-      <p><b>　　　　 Q Q：1939971287</b></p>
-      <p><b>　　　Wechat：IDEALPYJ</b></p>
-      <p><b>　　 Twitter：IDEALPYJ</b></p>
+      <p><b>Now studing in School of Computer Science and Technology, SDU</b></p>
+      <p><b>E-mail　idealpyj@gmail.com</b></p>
+      <p><b>Wechat：IDEALPYJ</b></p>
+      <p><b>Twitter：IDEALPYJ</b></p>
     </td>
     <td width="25%">
       <img src="/ID photo.jpg" width="100%">
