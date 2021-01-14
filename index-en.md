@@ -31,3 +31,5 @@
 Undergraduate major is computer science and trchnology
 
 Have a certain understanding of C language
+  
+[中文](index.md)
