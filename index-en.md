@@ -10,7 +10,7 @@
       <p><b>　　　E-mail：idealpyj@163.com</b></p>
       <p><b>　　　　　　　 idealpyj@gmail.com</b></p>
       <p><b>　　　　 Q Q：1939971287</b></p>
-      <p><b>　　　Wecaht：IDEALPYJ</b></p>
+      <p><b>　　　Wechat：IDEALPYJ</b></p>
       <p><b>　　 Twitter：IDEALPYJ</b></p>
     </td>
     <td width="25%">
