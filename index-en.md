@@ -15,11 +15,6 @@
 </table>
 
 #### Education
-2008——2014　　　　Dongying Haihe Primary School 
-
-2014——2017　　　　Dongying Experimental Middle School
-
-2017——2020　　　　Dongying No.1 Middle School  
 
 2020 to present　　　Shandong University  
 #### Direction
