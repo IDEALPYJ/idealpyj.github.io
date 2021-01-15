@@ -6,7 +6,7 @@
       <p><b>Now studing in School of Computer Science and Technology, Shandong University</b></p>
       <p><b>E-mail：idealpyj@gmail.com</b></p>
       <p><b>Twitter：IDEALPYJ</b></p>
-      <p><b>Facebook：IDEALPYJ</b></p>
+      <p><b>Facebook：idealpyj</b></p>
     </td>
     <td width="25%">
       <img src="/ID photo.jpg" width="100%">
